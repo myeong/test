@@ -1,0 +1,20 @@
+I"j<p>weird…</p>
+
+<h1 id="header-one">Header One</h1>
+<p>This is Myeong, from AIT 722.</p>
+
+<h2 id="header-two">Header Two</h2>
+<p>This is the first blog posting.</p>
+
+<h4 id="bullet-points">Bullet Points</h4>
+<ul>
+  <li>number one</li>
+  <li>number two</li>
+  <li>number three
+    <ul>
+      <li>number 3-1</li>
+      <li>number 3-2</li>
+    </ul>
+  </li>
+</ul>
+:ET
